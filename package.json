@@ -1,0 +1,22 @@
+{
+  "name": "vievo7web",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vievo7/web.git"
+  },
+  "author": "vievo7",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vievo7/web/issues"
+  },
+  "homepage": "https://github.com/vievo7/web#readme",
+  "description": "My own website-",
+  "dependencies": {
+    "tailwindcss": "^3.1.4"
+  }
+}
