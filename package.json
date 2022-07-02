@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "http-server"
   },
   "repository": {
     "type": "git",
@@ -16,7 +16,11 @@
   },
   "homepage": "https://github.com/vievo7/web#readme",
   "description": "My own website-",
-  "dependencies": {
+  "devDependencies": {
+    "http-server": "^14.1.1",
     "tailwindcss": "^3.1.4"
+  },
+  "dependencies": {
+    "nodemon": "^2.0.18"
   }
 }
