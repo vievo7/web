@@ -1,3 +1,7 @@
 @tailwind base;
 @tailwind components;
+html {
+    font-family: "DIN Alternate", sans-serif;
+    scroll-behavior: center;
+}
 @tailwind utilities;
